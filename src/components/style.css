@@ -1,0 +1,32 @@
+.style
+{
+    margin-left: 400px;
+    margin-right: 300px;
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    padding-top: 20px;
+}
+.style h1{
+   
+    text-align: center;
+    color: rgb(5, 115, 115);
+   
+}
+
+.loginDiv{
+    background-color: rgb(53, 195, 195) ;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100vh;
+    padding-top: 50px;
+}
+
+.form-control {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.center
+{
+    text-align: center;
+}
